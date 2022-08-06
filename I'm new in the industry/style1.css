@@ -93,6 +93,7 @@
     display: flex;
     flex-flow: row wrap;
     margin-top: 10%;
+    width: 90%
 }
 .main__left .img{
     height: 500px;
